@@ -1,2 +1,3 @@
-# -Advanced-Regression-Techniques-using-Python-SXC-Lab
-A collection of Jupyter notebooks covering advanced regression techniques, including Smoothing Techniques, Nonlinear Regression, Regression Splines, Generalized Additive Models ,Bootstrapping, and more, with real datasets and hands-on implementation in Python .
+# 📊 Advanced Regression Techniques
+
+This repository contains hands-on lab work and case studies focused on advanced regression techniques for statistical modeling and machine learning. Each notebook explores a different method with implementation, visualization, and interpretation of results.
